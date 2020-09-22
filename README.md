@@ -1,4 +1,4 @@
-# Playing-with-Geometry-Spatial_Data_Types_in_MySQL
+# Playing_with_Geometry_Spatial_Data_Types_in_MySQL
 
 ## Buat Tabel
 
